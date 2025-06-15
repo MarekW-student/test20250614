@@ -4,7 +4,7 @@ pipeline {
 	stages {
 		stage('Say hello') {
 			steps {
-				echo 'hello'
+				echo 'hello TAS4'
 			}
 		}
 	}
